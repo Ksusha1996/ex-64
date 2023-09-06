@@ -1,0 +1,15 @@
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\bin\Debug\net7.0\tab-64.exe
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\bin\Debug\net7.0\tab-64.deps.json
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\bin\Debug\net7.0\tab-64.runtimeconfig.json
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\bin\Debug\net7.0\tab-64.dll
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\bin\Debug\net7.0\tab-64.pdb
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.csproj.AssemblyReference.cache
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.AssemblyInfoInputs.cache
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.AssemblyInfo.cs
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.csproj.CoreCompileInputs.cache
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.dll
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\refint\tab-64.dll
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.pdb
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\tab-64.genruntimeconfig.cache
+D:\ДЗ. курсы программирования\С#\C#64\ex-64\tab-64\obj\Debug\net7.0\ref\tab-64.dll
